@@ -4,3 +4,8 @@ h3{
 p{
     background-color: rgb(60, 207, 92);
 }
+img{
+    width: 100%;
+    /* background-blend-mode: hard-light; */
+    /* color: orchid; */
+}
